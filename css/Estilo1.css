@@ -1,0 +1,30 @@
+*{  
+    padding: 5px;
+    margin: 5px;
+    border: 0px;
+    border-color: black;
+}
+body{
+    background-color: brown;
+}
+header{
+    background-color: darkred;
+    width: 120px;
+    height: auto;
+}
+nav{
+    background-color: maroon;
+}
+section{
+    background-color: white;
+    height: 100px;
+    width: auto;
+}
+aside{
+    background-color: orange;
+}
+footer{
+    background-color: darkmagenta;
+    width: auto;
+    height: 50px;
+}

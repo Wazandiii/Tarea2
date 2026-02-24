@@ -1,0 +1,62 @@
+body{
+    background-color: brown;
+}
+.padre{
+    background-color: chocolate;
+    padding: 15px;
+    margin: 50px;
+}
+.titulo{
+    background-color: red;
+}
+.menu{
+    background-color: beige;
+}
+.contenido{
+    background-color: orange;
+    width: auto;
+    height: 400px;
+    margin: 10px;
+    padding: 10px;
+}
+.pie{
+    background-color: yellow;
+}
+.c1{
+    background-color: red;
+    width: auto;
+    height: 100px;
+    padding: 50px;
+}
+.c2{
+    background-color: yellow;
+    width: auto;
+    height: 50px;
+    padding: 20px;
+
+}
+.c3{
+    background-color:green;
+    width: auto;
+    height: 50px;
+    padding: 2px;
+}
+.c4{
+    background-color: darkblue;
+    color: white;
+    width: 150px;
+    height: 25px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+.c5
+{
+    background-color: darkblue;
+    color: white;
+    width: 150px;
+    height: 25px;
+    position: relative;
+    left: 230px;
+    bottom: 15px;
+}
